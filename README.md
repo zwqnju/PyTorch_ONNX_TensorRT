@@ -1,5 +1,5 @@
 # Introduction
-The origin project is [RizhaoCai/PyTorch_ONNX_TensorRT](https://github.com/RizhaoCai/PyTorch_ONNX_TensorRT).
+The original project is from [RizhaoCai/PyTorch_ONNX_TensorRT](https://github.com/RizhaoCai/PyTorch_ONNX_TensorRT).
 
 But I meet the same issue as [error:create_execution_context](https://github.com/RizhaoCai/PyTorch_ONNX_TensorRT/issues/3), maybe due to my different environment with the original author.
 
